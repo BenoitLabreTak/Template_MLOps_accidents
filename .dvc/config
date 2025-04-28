@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "template_mlops_accidents"']
+    url = ..
